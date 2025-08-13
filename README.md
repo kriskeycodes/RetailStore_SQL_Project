@@ -1,5 +1,3 @@
-# RetailStore_SQL_Project
-SQL scripts for retail store database project
 # Retail Store SQL Project
 
 This repository contains SQL scripts and documentation for a fictional retail store database system, developed as part of a course assignment for CS660.
